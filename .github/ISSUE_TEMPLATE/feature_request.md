@@ -1,19 +1,19 @@
-name: Feature Request
-description: Request a feature
+---
+name: Feature request
+about: Suggest an idea for this project
 title: "[Feature]: "
-labels: ["Feature"]
-body:
-  - type: textarea
-    attributes:
-      label: What happened?
-## Feature Description
-[Clear description of requested functionality]
+labels: enhancement
+assignees: ""
+---
 
-## Use Case
-[Why this feature would be valuable]
+## Problem / Motivation
+What problem are you trying to solve?
 
-## Proposed Solution
-[Your ideas for implementation]
+## Proposed solution
+What you’d like to happen.
 
-## Alternatives Considered
-[Other approaches you've thought about]
+## Alternatives considered
+Any other approaches you’ve thought about.
+
+## Additional context
+Mockups, links, etc.
