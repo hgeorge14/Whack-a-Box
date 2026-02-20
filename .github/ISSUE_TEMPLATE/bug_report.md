@@ -1,11 +1,11 @@
 name: Bug Report
-description: File a bug report.
+description: Report a bug
 title: "[Bug]: "
-labels: ["bug", "triage"]
-projects: ["octo-org/1", "octo-org/44"]
-assignees:
-  - octocat
-type: bug
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes:
+      label: What happened?
 body:
   - type: markdown
     attributes:

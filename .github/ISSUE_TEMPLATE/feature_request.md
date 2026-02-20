@@ -1,3 +1,11 @@
+name: Feature Request
+description: Request a feature
+title: "[Feature]: "
+labels: ["Feature"]
+body:
+  - type: textarea
+    attributes:
+      label: What happened?
 ## Feature Description
 [Clear description of requested functionality]
 
